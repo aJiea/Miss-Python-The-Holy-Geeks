@@ -1,4 +1,4 @@
-My Awesome Book
+Miss Python and the Holy Geeks
 =======
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+When Miss Python commenced this book, she didn't really know what the book will be. She just felt like that she entered into a whole new mysterious universe of... the holy geeks. She found there were various kinds of talented holy geeks who could either compose poems with codes or complain to the society between the "if-then"s.
