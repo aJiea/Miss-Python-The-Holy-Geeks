@@ -4,4 +4,5 @@
 * [Chapter I: Open Mind Fun](chapter1.md)
 * [Chapter II: Miss Python Routines](chapter2.md)
 * [Chapter III: Coding](chapter3)
+* Chapter IV
 
